@@ -18,7 +18,7 @@
 - remove all remote files
 - rename remote to persist
 - remove revision file
-- create revision file.txt
+- create revision file.txt and write number from textbox
 - rename revision.txt to revision(unformatted)
 
 **What Patch! button don't?:**
