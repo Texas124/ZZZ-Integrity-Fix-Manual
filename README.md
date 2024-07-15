@@ -8,7 +8,7 @@
 - ![image](https://github.com/user-attachments/assets/a3c2ffdf-90b1-4212-b096-50da04dd0bb6)
 - Press Locate remote file
 - Enter the latest revision number
-- Done!
+- Patch!
 
 **How the app works:**
 - By locating "\ZenlessZoneZero Game\ZenlessZoneZero_Data\Persistent" folder and count how much "_remote" files
