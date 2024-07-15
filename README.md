@@ -22,4 +22,4 @@
 - rename revision.txt to revision(unformatted)
 
 **What Patch! button don't?:**
-- it would not remove the revision file if the textbox is empty/it will keep the old revision file
+- remove the revision file if the textbox is empty/it will keep the old revision file
